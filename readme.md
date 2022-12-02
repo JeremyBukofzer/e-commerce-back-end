@@ -16,14 +16,13 @@
 
   ## Installation
 
-  Run "npm install" to install any necessary modules. Then you can acces the database via mysql.
-
+  Run "npm install" to install any necessary modules. Then you can access the database via mysql, and "npm run seed".
+  
   ## Demo
 
+  [Install video](https://drive.google.com/file/d/1tAuEMAleql5twqsY4bdjJwh8JjljhOQg/view)
 
-  
-
-  
+  [Insomnia Video](https://drive.google.com/file/d/1GaC_Tmuyf1k4Q0nUXxkItbHYS6LFvOZZ/view)
 
   ## License
 
